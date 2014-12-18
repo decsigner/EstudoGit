@@ -9,7 +9,7 @@
 3. Fiz meu primeiro commit no arquivo com o comando **git commit -m "Mensagem"**
 --------------------------------------------------------------------------------
 
-4. Fiz a conexão com o Github com o comando **git remote add origin https://github/meu-usuairo/meu-repositório-.git/
+4. Fiz a conexão com o Github com o comando **git remote add origin https://github.com/meu-usuairo/meu-repositório-.git/
 --------------------------------------------------------------------------------------------------------------------
 
 
